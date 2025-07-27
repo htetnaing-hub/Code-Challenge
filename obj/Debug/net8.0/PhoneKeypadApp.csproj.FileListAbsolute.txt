@@ -1,0 +1,46 @@
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.exe
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.deps.json
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.runtimeconfig.json
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.dll
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.pdb
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.AssemblyInfoInputs.cache
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.AssemblyInfo.cs
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.csproj.CoreCompileInputs.cache
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.dll
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\refint\PhoneKeypadApp.dll
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.pdb
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.genruntimeconfig.cache
+D:\code\08_Code_Test\Iron Software\PhoneKeypadApp\obj\Debug\net8.0\ref\PhoneKeypadApp.dll
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.exe
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.deps.json
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.runtimeconfig.json
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.dll
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.pdb
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.xml
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.AssemblyInfoInputs.cache
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.AssemblyInfo.cs
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.csproj.CoreCompileInputs.cache
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.dll
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\refint\PhoneKeypadApp.dll
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.xml
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.pdb
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.genruntimeconfig.cache
+D:\code\08_Code_Test\C# Code Challenge\PhoneKeypadApp\obj\Debug\net8.0\ref\PhoneKeypadApp.dll
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.exe
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.deps.json
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.runtimeconfig.json
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.dll
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.pdb
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\bin\Debug\net8.0\PhoneKeypadApp.xml
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.AssemblyInfoInputs.cache
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.AssemblyInfo.cs
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.csproj.CoreCompileInputs.cache
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.dll
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\refint\PhoneKeypadApp.dll
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.xml
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.pdb
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\PhoneKeypadApp.genruntimeconfig.cache
+D:\code\08_Code_Test\Code_Challenge\PhoneKeypadApp\obj\Debug\net8.0\ref\PhoneKeypadApp.dll

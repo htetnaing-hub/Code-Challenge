@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PhoneKeypadApp</name>
+    </assembly>
+    <members>
+        <member name="T:PhoneKeypadApp.Models.KeypadMapping">
+            <summary>
+            Represents the character mappings for a classic mobile phone keypad.
+            </summary>
+        </member>
+        <member name="F:PhoneKeypadApp.Models.KeypadMapping.Map">
+            <summary>
+            A dictionary that maps numeric keypad characters (0–9) to their corresponding letter groups.
+            </summary>
+            <remarks>
+            For example, '2' maps to "ABC", '3' to "DEF", and so on.
+            </remarks>
+        </member>
+        <member name="T:PhoneKeypadApp.Services.KeyPadDecoder">
+            <summary>
+            Provides functionality to decode input strings simulating old mobile phone keypads.
+            </summary>
+        </member>
+        <member name="M:PhoneKeypadApp.Services.KeyPadDecoder.Decode(System.String)">
+            <summary>
+            Decodes the provided keypad input string and prints the result to the console.
+            </summary>
+            <param name="input">
+            A string of digits and control characters:
+            Digits (0–9) represent key presses,
+            space (' ') confirms character selection,
+            asterisk ('*') performs a backspace,
+            and hash ('#') ends the input.
+            </param>
+            <example>
+            Example input: "4433555 555666#" prints "HELLO"
+            </example>
+        </member>
+        <member name="M:PhoneKeypadApp.Services.KeyPadDecoder.AppendCharacter(System.Text.StringBuilder,System.Char,System.Int32)">
+            <summary>
+            Appends a character to the output based on the key and the number of times it was pressed.
+            </summary>
+            <param name="output">The string builder accumulating the decoded message.</param>
+            <param name="key">The numeric key pressed (e.g., '2').</param>
+            <param name="count">The number of times the key was pressed.</param>
+        </member>
+        <member name="T:Program">
+            <summary>
+            Entry point for the PhoneKeypadApp console application.
+            Demonstrates decoding input strings based on old phone keypad input.
+            </summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>
+            Main method that runs the keypad decoder examples.
+            </summary>
+            <param name="args">Command-line arguments (not used).</param>
+        </member>
+    </members>
+</doc>

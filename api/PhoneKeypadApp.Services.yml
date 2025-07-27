@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: PhoneKeypadApp.Services
+  commentId: N:PhoneKeypadApp.Services
+  id: PhoneKeypadApp.Services
+  children:
+  - PhoneKeypadApp.Services.KeyPadDecoder
+  langs:
+  - csharp
+  - vb
+  name: PhoneKeypadApp.Services
+  nameWithType: PhoneKeypadApp.Services
+  fullName: PhoneKeypadApp.Services
+  type: Namespace
+  assemblies:
+  - PhoneKeypadApp
+references:
+- uid: PhoneKeypadApp.Services.KeyPadDecoder
+  commentId: T:PhoneKeypadApp.Services.KeyPadDecoder
+  href: PhoneKeypadApp.Services.KeyPadDecoder.html
+  name: KeyPadDecoder
+  nameWithType: KeyPadDecoder
+  fullName: PhoneKeypadApp.Services.KeyPadDecoder

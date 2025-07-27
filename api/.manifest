@@ -1,0 +1,8 @@
+{
+  "PhoneKeypadApp.Models": "PhoneKeypadApp.Models.yml",
+  "PhoneKeypadApp.Models.KeypadMapping": "PhoneKeypadApp.Models.KeypadMapping.yml",
+  "PhoneKeypadApp.Models.KeypadMapping.Map": "PhoneKeypadApp.Models.KeypadMapping.yml",
+  "PhoneKeypadApp.Services": "PhoneKeypadApp.Services.yml",
+  "PhoneKeypadApp.Services.KeyPadDecoder": "PhoneKeypadApp.Services.KeyPadDecoder.yml",
+  "PhoneKeypadApp.Services.KeyPadDecoder.Decode(System.String)": "PhoneKeypadApp.Services.KeyPadDecoder.yml"
+}

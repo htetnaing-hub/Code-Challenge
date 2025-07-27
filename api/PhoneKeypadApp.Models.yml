@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: PhoneKeypadApp.Models
+  commentId: N:PhoneKeypadApp.Models
+  id: PhoneKeypadApp.Models
+  children:
+  - PhoneKeypadApp.Models.KeypadMapping
+  langs:
+  - csharp
+  - vb
+  name: PhoneKeypadApp.Models
+  nameWithType: PhoneKeypadApp.Models
+  fullName: PhoneKeypadApp.Models
+  type: Namespace
+  assemblies:
+  - PhoneKeypadApp
+references:
+- uid: PhoneKeypadApp.Models.KeypadMapping
+  commentId: T:PhoneKeypadApp.Models.KeypadMapping
+  href: PhoneKeypadApp.Models.KeypadMapping.html
+  name: KeypadMapping
+  nameWithType: KeypadMapping
+  fullName: PhoneKeypadApp.Models.KeypadMapping
