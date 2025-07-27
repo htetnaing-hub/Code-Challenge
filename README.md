@@ -1,2 +1,2 @@
-# C--Code-Challenge
+# Code-Challenge
 Functionality of old phone keypad.
